@@ -1,0 +1,1 @@
+export default seniorityL = ["Trainee","Junior","Junior Adv","Semisenior","Semisenio Adv","Senior","Senior Adv"];
